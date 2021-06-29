@@ -1,0 +1,17 @@
+g = 1;
+i = 0;
+arrray new List;
+arrray.add(5+5);
+
+arrayTwo new Set;
+arrayTwo.add(3*3);
+
+g = a.get(2);
+
+while(i < 12)
+{
+i = i + 2;
+}
+
+g++;
+g--;
